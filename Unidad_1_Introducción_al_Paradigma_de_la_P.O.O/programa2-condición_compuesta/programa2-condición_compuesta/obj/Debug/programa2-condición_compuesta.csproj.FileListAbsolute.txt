@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa2-condición_compuesta\programa2-condición_compuesta\bin\Debug\programa2-condición_compuesta.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa2-condición_compuesta\programa2-condición_compuesta\bin\Debug\programa2-condición_compuesta.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa2-condición_compuesta\programa2-condición_compuesta\bin\Debug\programa2-condición_compuesta.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa2-condición_compuesta\programa2-condición_compuesta\obj\Debug\programa2-condición_compuesta.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa2-condición_compuesta\programa2-condición_compuesta\obj\Debug\programa2-condición_compuesta.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa2-condición_compuesta\programa2-condición_compuesta\obj\Debug\programa2-condición_compuesta.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa2-condición_compuesta\programa2-condición_compuesta\obj\Debug\programa2-condición_compuesta.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa2-condición_compuesta\programa2-condición_compuesta\obj\Debug\programa2-condición_compuesta.pdb

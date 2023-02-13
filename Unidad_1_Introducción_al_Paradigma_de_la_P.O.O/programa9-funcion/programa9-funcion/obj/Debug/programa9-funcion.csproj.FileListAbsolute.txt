@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa9-funcion\programa9-funcion\bin\Debug\programa9-funcion.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa9-funcion\programa9-funcion\bin\Debug\programa9-funcion.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa9-funcion\programa9-funcion\bin\Debug\programa9-funcion.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa9-funcion\programa9-funcion\obj\Debug\programa9-funcion.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa9-funcion\programa9-funcion\obj\Debug\programa9-funcion.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa9-funcion\programa9-funcion\obj\Debug\programa9-funcion.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa9-funcion\programa9-funcion\obj\Debug\programa9-funcion.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa9-funcion\programa9-funcion\obj\Debug\programa9-funcion.pdb
