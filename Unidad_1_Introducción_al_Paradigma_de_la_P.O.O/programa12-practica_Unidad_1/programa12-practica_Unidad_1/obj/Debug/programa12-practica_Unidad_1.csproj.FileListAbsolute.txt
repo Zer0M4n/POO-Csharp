@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa12-practica_Unidad_1\programa12-practica_Unidad_1\bin\Debug\programa12-practica_Unidad_1.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa12-practica_Unidad_1\programa12-practica_Unidad_1\bin\Debug\programa12-practica_Unidad_1.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa12-practica_Unidad_1\programa12-practica_Unidad_1\bin\Debug\programa12-practica_Unidad_1.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa12-practica_Unidad_1\programa12-practica_Unidad_1\obj\Debug\programa12-practica_Unidad_1.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa12-practica_Unidad_1\programa12-practica_Unidad_1\obj\Debug\programa12-practica_Unidad_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa12-practica_Unidad_1\programa12-practica_Unidad_1\obj\Debug\programa12-practica_Unidad_1.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa12-practica_Unidad_1\programa12-practica_Unidad_1\obj\Debug\programa12-practica_Unidad_1.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\Unidad_1_Introducción_al_Paradigma_de_la_P.O.O\programa12-practica_Unidad_1\programa12-practica_Unidad_1\obj\Debug\programa12-practica_Unidad_1.pdb
