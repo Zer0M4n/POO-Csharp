@@ -10,23 +10,23 @@ namespace programa12_practica_Unidad_1
     
     internal class Program
     {
-       static int funcionAREA(int lado)//CREAMOS UNA FUNCION PARA EL AREA
+       static int funcionAREA(short lado)//CREAMOS UNA FUNCION PARA EL AREA
         { 
-            Int16 Area = 0;//DECLARAMOS LA VARIABLE
+            short Area = 0;//DECLARAMOS LA VARIABLE
 
 
-            Area = (Int16)Math.Pow(lado,2);
+            Area = (short)(Math.Pow(lado, 2)*6);
 
             return  Area; 
         }
         static void AREA()//CREAMOS UN PROCEDMIENTO
         {
-            Int16 lado = 0, Area = 0;//DECLARAMOS VARIABLES
+            short lado = 0, Area = 0;//DECLARAMOS VARIABLES
 
             //CAPTURAMOS LOS DAOTS
 
             Console.Write("VALOR DEL LADO :  ");
-            lado = Int16.Parse(Console.ReadLine());
+            lado = short.Parse(Console.ReadLine());
 
             //IMPRIMIMOS EL AREA 
             Console.WriteLine("El area es {0}", funcionAREA(lado));
@@ -35,41 +35,68 @@ namespace programa12_practica_Unidad_1
         static void Main(string[] args)
         {
             //DECLARAMOS VARIABLES
-            Int16 i =0 , multiplos3 = 51,  reglon = 0, columna = 0, SumaMatriz = 0,promedio = 0;
-            string opc ;
+            short i =0 , multiplos3 = 51,  reglon = 0, columna = 0, SumaMatriz = 0,promedio = 0, Multplo = 51  ;
+            int CONTADOR2 = 50;
+            
+            char OPC = 'A';
+            
             
 
             //MUESTRA EL TEXTO
             Console.Write("QUE DESEA HACER ? " +
-                "\n1)Calcular area del grupo \n2)Desplegar multiplos 3 desde el 50 \n3)Suma y promedio con numeros ramdom \n4)salir del programa○\n");
-            Console.Write("\nEscribe solo el numero el numero seleccionado: ");
-            opc = Console.ReadLine();
+                "\nA)Calcular area del CUBO de lado entero \nB)Desplegar multiplos 3 desde el 50 de manera DECENDENTE \nC)Suma y promedio de una matriz  con numeros ramdom \nD)salir del programa○\n");
+            Console.Write("\nEscribe solo LA LETRA el numero seleccionado: ");
+            OPC = char.Parse(Console.ReadLine());
             
 
             //Hacemos un menu con swich cAASE
 
-            switch (opc) 
+            switch (OPC) 
             {
-                case "1":                   
+                case 'A':                   
                     //llamamos la funcion con procedimiento
                     AREA();
 
                     break;
 
-                case "2":
-                    
+                case 'B':
+                    Console.WriteLine("Con ciclo for");
+
                     for(i = 0; i<16; i++)//del 3 al 50 hay 16 multiplos de 3 por eso el ciclo terminara con 16 iteraciones
                     {
                         multiplos3 = (short)(multiplos3 - 3);//el valor multiplos3 se va restando en 3 en  3 
                         Console.WriteLine(multiplos3);//imprimimos el resultadp
                     }
 
+                    Console.WriteLine("\nCon ciclo DO-WHILE\n");
+                    multiplos3 = 51;
+                    
+                    do
+                    {
+                        multiplos3 =(short) (multiplos3 - 3);
+                        Console.WriteLine(multiplos3);//IMPRIMIMOS RESULTADOS
+                        
+                    } while (multiplos3 > 3);
+
+                    Console.WriteLine("\nCon ciclo WHILE\n");
+
+                    i = 50;
+                    while (i > 1) 
+                    {
+                        i--;
+                      if(i % 3 == 0) //MUESTRA LOS RESIDUOS QUE SEAN IGUAL A 0
+                        {
+                            Console.WriteLine(i);
+                        }
+                        
+                    }
+
                     break;
 
-                case "3":
+                case 'C':
 
                     Random numeros = new Random();
-                    int[,] suma = new int[4,4];
+                    short[,] suma = new short[4,4];
 
                     //Llenar los numeros aleatorias en la matriz
 
@@ -77,7 +104,7 @@ namespace programa12_practica_Unidad_1
                     {
                         for(columna = 0; columna < 4; columna++)
                         {
-                            suma[reglon, columna] = numeros.Next(9);
+                            suma[reglon, columna] = (short)numeros.Next(1,9);//del 0 al 9
                         }
                     }
 
@@ -87,7 +114,7 @@ namespace programa12_practica_Unidad_1
                     {
                         for(columna = 0; columna < 4; columna++)
                         {
-                            SumaMatriz = (short)(suma[reglon, columna] + suma[reglon,columna]);
+                            SumaMatriz = (short)(suma[reglon, columna] + suma[reglon,columna]);//sumamos la matriz
 
                             
                             Console.WriteLine(SumaMatriz);
@@ -103,15 +130,16 @@ namespace programa12_practica_Unidad_1
                         {
                             SumaMatriz += (short)( suma[reglon, columna]); ;//suma total de la matriz
 
+
                         }
                     }
-                    promedio = (short)(SumaMatriz / 16);
+                    promedio = (short)(SumaMatriz / 16);//promedio de la suma total
                     Console.Write("PROMEDIO TOTAL ES: {0}", promedio);
 
 
                     break;
 
-                case "4":
+                case 'D':
                     Console.WriteLine("HAZ SALIDO DEL PROGRAMA");
                     break;
             }
