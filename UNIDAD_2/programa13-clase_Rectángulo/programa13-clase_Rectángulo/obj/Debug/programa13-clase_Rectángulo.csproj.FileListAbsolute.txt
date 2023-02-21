@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa13-clase_Rectángulo\programa13-clase_Rectángulo\bin\Debug\programa13-clase_Rectángulo.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa13-clase_Rectángulo\programa13-clase_Rectángulo\bin\Debug\programa13-clase_Rectángulo.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa13-clase_Rectángulo\programa13-clase_Rectángulo\bin\Debug\programa13-clase_Rectángulo.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa13-clase_Rectángulo\programa13-clase_Rectángulo\obj\Debug\programa13-clase_Rectángulo.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa13-clase_Rectángulo\programa13-clase_Rectángulo\obj\Debug\programa13-clase_Rectángulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa13-clase_Rectángulo\programa13-clase_Rectángulo\obj\Debug\programa13-clase_Rectángulo.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa13-clase_Rectángulo\programa13-clase_Rectángulo\obj\Debug\programa13-clase_Rectángulo.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa13-clase_Rectángulo\programa13-clase_Rectángulo\obj\Debug\programa13-clase_Rectángulo.pdb

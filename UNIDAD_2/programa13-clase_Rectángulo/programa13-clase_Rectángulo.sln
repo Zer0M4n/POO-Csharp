@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa13-clase_Rectángulo", "programa13-clase_Rectángulo\programa13-clase_Rectángulo.csproj", "{0C066D78-78DC-4964-9A81-55A179E04168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C066D78-78DC-4964-9A81-55A179E04168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C066D78-78DC-4964-9A81-55A179E04168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C066D78-78DC-4964-9A81-55A179E04168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C066D78-78DC-4964-9A81-55A179E04168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD47A914-1FA2-49B7-803E-0A42712B687A}
+	EndGlobalSection
+EndGlobal

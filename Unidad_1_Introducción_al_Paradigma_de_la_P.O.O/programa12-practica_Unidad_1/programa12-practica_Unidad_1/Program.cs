@@ -21,7 +21,7 @@ namespace programa12_practica_Unidad_1
         }
         static void AREA()//CREAMOS UN PROCEDMIENTO
         {
-            short lado = 0, Area = 0;//DECLARAMOS VARIABLES
+            short lado = 0;//DECLARAMOS VARIABLES
 
             //CAPTURAMOS LOS DAOTS
 
@@ -35,8 +35,8 @@ namespace programa12_practica_Unidad_1
         static void Main(string[] args)
         {
             //DECLARAMOS VARIABLES
-            short i =0 , multiplos3 = 51,  reglon = 0, columna = 0, SumaMatriz = 0,promedio = 0, Multplo = 51  ;
-            int CONTADOR2 = 50;
+            short i =0 , multiplos3 = 51,  reglon = 0, columna = 0, SumaMatriz = 0,promedio = 0  ;
+            
             
             char OPC = 'A';
             
