@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa17-clase_círculo\programa17-clase_círculo\bin\Debug\programa17-clase_círculo.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa17-clase_círculo\programa17-clase_círculo\bin\Debug\programa17-clase_círculo.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa17-clase_círculo\programa17-clase_círculo\bin\Debug\programa17-clase_círculo.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa17-clase_círculo\programa17-clase_círculo\obj\Debug\programa17-clase_círculo.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa17-clase_círculo\programa17-clase_círculo\obj\Debug\programa17-clase_círculo.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa17-clase_círculo\programa17-clase_círculo\obj\Debug\programa17-clase_círculo.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa17-clase_círculo\programa17-clase_círculo\obj\Debug\programa17-clase_círculo.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa17-clase_círculo\programa17-clase_círculo\obj\Debug\programa17-clase_círculo.pdb

@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa16-clase_cliente\programa16-clase_cliente\bin\Debug\programa16-clase_cliente.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa16-clase_cliente\programa16-clase_cliente\bin\Debug\programa16-clase_cliente.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa16-clase_cliente\programa16-clase_cliente\bin\Debug\programa16-clase_cliente.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa16-clase_cliente\programa16-clase_cliente\obj\Debug\programa16-clase_cliente.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa16-clase_cliente\programa16-clase_cliente\obj\Debug\programa16-clase_cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa16-clase_cliente\programa16-clase_cliente\obj\Debug\programa16-clase_cliente.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa16-clase_cliente\programa16-clase_cliente\obj\Debug\programa16-clase_cliente.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa16-clase_cliente\programa16-clase_cliente\obj\Debug\programa16-clase_cliente.pdb
