@@ -1,0 +1,24 @@
+F:\Progamacion orientada a objectos\UNIDAD 2\PRACTICAS\programa18-clase areas\programa18-clase areas\bin\Debug\programa18-clase areas.exe.config
+F:\Progamacion orientada a objectos\UNIDAD 2\PRACTICAS\programa18-clase areas\programa18-clase areas\bin\Debug\programa18-clase areas.exe
+F:\Progamacion orientada a objectos\UNIDAD 2\PRACTICAS\programa18-clase areas\programa18-clase areas\bin\Debug\programa18-clase areas.pdb
+F:\Progamacion orientada a objectos\UNIDAD 2\PRACTICAS\programa18-clase areas\programa18-clase areas\obj\Debug\programa18-clase areas.csproj.AssemblyReference.cache
+F:\Progamacion orientada a objectos\UNIDAD 2\PRACTICAS\programa18-clase areas\programa18-clase areas\obj\Debug\programa18-clase areas.csproj.SuggestedBindingRedirects.cache
+F:\Progamacion orientada a objectos\UNIDAD 2\PRACTICAS\programa18-clase areas\programa18-clase areas\obj\Debug\programa18-clase areas.csproj.CoreCompileInputs.cache
+F:\Progamacion orientada a objectos\UNIDAD 2\PRACTICAS\programa18-clase areas\programa18-clase areas\obj\Debug\programa18-clase areas.exe
+F:\Progamacion orientada a objectos\UNIDAD 2\PRACTICAS\programa18-clase areas\programa18-clase areas\obj\Debug\programa18-clase areas.pdb
+E:\Progamacion orientada a objectos\UNIDAD 2\PRACTICAS\programa18-clase areas\programa18-clase areas\bin\Debug\programa18-clase areas.exe.config
+E:\Progamacion orientada a objectos\UNIDAD 2\PRACTICAS\programa18-clase areas\programa18-clase areas\bin\Debug\programa18-clase areas.exe
+E:\Progamacion orientada a objectos\UNIDAD 2\PRACTICAS\programa18-clase areas\programa18-clase areas\bin\Debug\programa18-clase areas.pdb
+E:\Progamacion orientada a objectos\UNIDAD 2\PRACTICAS\programa18-clase areas\programa18-clase areas\obj\Debug\programa18-clase areas.csproj.AssemblyReference.cache
+E:\Progamacion orientada a objectos\UNIDAD 2\PRACTICAS\programa18-clase areas\programa18-clase areas\obj\Debug\programa18-clase areas.csproj.SuggestedBindingRedirects.cache
+E:\Progamacion orientada a objectos\UNIDAD 2\PRACTICAS\programa18-clase areas\programa18-clase areas\obj\Debug\programa18-clase areas.csproj.CoreCompileInputs.cache
+E:\Progamacion orientada a objectos\UNIDAD 2\PRACTICAS\programa18-clase areas\programa18-clase areas\obj\Debug\programa18-clase areas.exe
+E:\Progamacion orientada a objectos\UNIDAD 2\PRACTICAS\programa18-clase areas\programa18-clase areas\obj\Debug\programa18-clase areas.pdb
+C:\Users\cesar\OneDrive\Escritorio\programa18-clase areas\programa18-clase areas\bin\Debug\programa18-clase areas.exe.config
+C:\Users\cesar\OneDrive\Escritorio\programa18-clase areas\programa18-clase areas\bin\Debug\programa18-clase areas.exe
+C:\Users\cesar\OneDrive\Escritorio\programa18-clase areas\programa18-clase areas\bin\Debug\programa18-clase areas.pdb
+C:\Users\cesar\OneDrive\Escritorio\programa18-clase areas\programa18-clase areas\obj\Debug\programa18-clase areas.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Escritorio\programa18-clase areas\programa18-clase areas\obj\Debug\programa18-clase areas.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Escritorio\programa18-clase areas\programa18-clase areas\obj\Debug\programa18-clase areas.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\programa18-clase areas\programa18-clase areas\obj\Debug\programa18-clase areas.exe
+C:\Users\cesar\OneDrive\Escritorio\programa18-clase areas\programa18-clase areas\obj\Debug\programa18-clase areas.pdb
