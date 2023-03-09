@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa19-sobrecarga_de_operadores\programa19-sobrecarga_de_operadores\bin\Debug\programa19-sobrecarga_de_operadores.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa19-sobrecarga_de_operadores\programa19-sobrecarga_de_operadores\bin\Debug\programa19-sobrecarga_de_operadores.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa19-sobrecarga_de_operadores\programa19-sobrecarga_de_operadores\bin\Debug\programa19-sobrecarga_de_operadores.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa19-sobrecarga_de_operadores\programa19-sobrecarga_de_operadores\obj\Debug\programa19-sobrecarga_de_operadores.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa19-sobrecarga_de_operadores\programa19-sobrecarga_de_operadores\obj\Debug\programa19-sobrecarga_de_operadores.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa19-sobrecarga_de_operadores\programa19-sobrecarga_de_operadores\obj\Debug\programa19-sobrecarga_de_operadores.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa19-sobrecarga_de_operadores\programa19-sobrecarga_de_operadores\obj\Debug\programa19-sobrecarga_de_operadores.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa19-sobrecarga_de_operadores\programa19-sobrecarga_de_operadores\obj\Debug\programa19-sobrecarga_de_operadores.pdb
