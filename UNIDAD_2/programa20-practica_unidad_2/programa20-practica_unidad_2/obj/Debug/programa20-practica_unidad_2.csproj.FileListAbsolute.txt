@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa20-practica_unidad_2\programa20-practica_unidad_2\bin\Debug\programa20-practica_unidad_2.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa20-practica_unidad_2\programa20-practica_unidad_2\bin\Debug\programa20-practica_unidad_2.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa20-practica_unidad_2\programa20-practica_unidad_2\bin\Debug\programa20-practica_unidad_2.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa20-practica_unidad_2\programa20-practica_unidad_2\obj\Debug\programa20-practica_unidad_2.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa20-practica_unidad_2\programa20-practica_unidad_2\obj\Debug\programa20-practica_unidad_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa20-practica_unidad_2\programa20-practica_unidad_2\obj\Debug\programa20-practica_unidad_2.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa20-practica_unidad_2\programa20-practica_unidad_2\obj\Debug\programa20-practica_unidad_2.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_2\programa20-practica_unidad_2\programa20-practica_unidad_2\obj\Debug\programa20-practica_unidad_2.pdb
