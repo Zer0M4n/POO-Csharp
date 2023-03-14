@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa22-uso_modificador_new", "programa22-uso_modificador_new\programa22-uso_modificador_new.csproj", "{807E64D3-04F2-4513-8D1A-D0314AC67535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{807E64D3-04F2-4513-8D1A-D0314AC67535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{807E64D3-04F2-4513-8D1A-D0314AC67535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{807E64D3-04F2-4513-8D1A-D0314AC67535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{807E64D3-04F2-4513-8D1A-D0314AC67535}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C649920-BEF6-4CD1-99AC-2BA1A3F00125}
+	EndGlobalSection
+EndGlobal
