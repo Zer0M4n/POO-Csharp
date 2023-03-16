@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa22-uso_modificador_new\programa22-uso_modificador_new\bin\Debug\programa22-uso_modificador_new.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa22-uso_modificador_new\programa22-uso_modificador_new\bin\Debug\programa22-uso_modificador_new.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa22-uso_modificador_new\programa22-uso_modificador_new\bin\Debug\programa22-uso_modificador_new.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa22-uso_modificador_new\programa22-uso_modificador_new\obj\Debug\programa22-uso_modificador_new.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa22-uso_modificador_new\programa22-uso_modificador_new\obj\Debug\programa22-uso_modificador_new.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa22-uso_modificador_new\programa22-uso_modificador_new\obj\Debug\programa22-uso_modificador_new.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa22-uso_modificador_new\programa22-uso_modificador_new\obj\Debug\programa22-uso_modificador_new.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa22-uso_modificador_new\programa22-uso_modificador_new\obj\Debug\programa22-uso_modificador_new.pdb
