@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa24-redefinición_de_métodos\programa24-redefinición_de_métodos\bin\Debug\programa24-redefinición_de_métodos.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa24-redefinición_de_métodos\programa24-redefinición_de_métodos\bin\Debug\programa24-redefinición_de_métodos.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa24-redefinición_de_métodos\programa24-redefinición_de_métodos\bin\Debug\programa24-redefinición_de_métodos.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa24-redefinición_de_métodos\programa24-redefinición_de_métodos\obj\Debug\programa24-redefinición_de_métodos.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa24-redefinición_de_métodos\programa24-redefinición_de_métodos\obj\Debug\programa24-redefinición_de_métodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa24-redefinición_de_métodos\programa24-redefinición_de_métodos\obj\Debug\programa24-redefinición_de_métodos.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa24-redefinición_de_métodos\programa24-redefinición_de_métodos\obj\Debug\programa24-redefinición_de_métodos.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa24-redefinición_de_métodos\programa24-redefinición_de_métodos\obj\Debug\programa24-redefinición_de_métodos.pdb

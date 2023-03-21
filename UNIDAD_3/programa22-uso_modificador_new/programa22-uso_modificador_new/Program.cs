@@ -40,9 +40,10 @@ namespace programa22_uso_modificador_new
             }
 
             //Destructor de la clase
-            ~Rectangulos() { Console.Write("Memoria liberada de la clase rectangulo"); }
+            ~Rectangulos() { Console.Write("\nMemoria liberada de la clase rectangulo○\n"); }
 
         }
+        //clase HIJA/DERIVADA
         class Cuadrado: Rectangulos
         {
             //Constructor de la clase
@@ -72,7 +73,7 @@ namespace programa22_uso_modificador_new
             }
 
             //DESTRUCTOR DE LA CLASE
-            ~Cuadrado() { Console.Write(""); }
+            ~Cuadrado() { Console.Write("\nMEMORIA LIBERADA DE LA CLASE CUADRADO"); }
         }
         static void Main(string[] args)
         {

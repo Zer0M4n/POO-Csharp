@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa23-constructores_y_destructores\programa23-constructores_y_destructores\bin\Debug\programa23-constructores_y_destructores.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa23-constructores_y_destructores\programa23-constructores_y_destructores\bin\Debug\programa23-constructores_y_destructores.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa23-constructores_y_destructores\programa23-constructores_y_destructores\bin\Debug\programa23-constructores_y_destructores.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa23-constructores_y_destructores\programa23-constructores_y_destructores\obj\Debug\programa23-constructores_y_destructores.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa23-constructores_y_destructores\programa23-constructores_y_destructores\obj\Debug\programa23-constructores_y_destructores.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa23-constructores_y_destructores\programa23-constructores_y_destructores\obj\Debug\programa23-constructores_y_destructores.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa23-constructores_y_destructores\programa23-constructores_y_destructores\obj\Debug\programa23-constructores_y_destructores.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa23-constructores_y_destructores\programa23-constructores_y_destructores\obj\Debug\programa23-constructores_y_destructores.pdb
