@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa25-practica_general_unidad_3\programa25-practica_general_unidad_3\bin\Debug\programa25-practica_general_unidad_3.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa25-practica_general_unidad_3\programa25-practica_general_unidad_3\bin\Debug\programa25-practica_general_unidad_3.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa25-practica_general_unidad_3\programa25-practica_general_unidad_3\bin\Debug\programa25-practica_general_unidad_3.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa25-practica_general_unidad_3\programa25-practica_general_unidad_3\obj\Debug\programa25-practica_general_unidad_3.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa25-practica_general_unidad_3\programa25-practica_general_unidad_3\obj\Debug\programa25-practica_general_unidad_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa25-practica_general_unidad_3\programa25-practica_general_unidad_3\obj\Debug\programa25-practica_general_unidad_3.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa25-practica_general_unidad_3\programa25-practica_general_unidad_3\obj\Debug\programa25-practica_general_unidad_3.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\UNIDAD_3\programa25-practica_general_unidad_3\programa25-practica_general_unidad_3\obj\Debug\programa25-practica_general_unidad_3.pdb
