@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\programa-26_polimorfismo_por_herencia\programa-26_polimorfismo_por_herencia\bin\Debug\programa-26_polimorfismo_por_herencia.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\programa-26_polimorfismo_por_herencia\programa-26_polimorfismo_por_herencia\bin\Debug\programa-26_polimorfismo_por_herencia.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\programa-26_polimorfismo_por_herencia\programa-26_polimorfismo_por_herencia\bin\Debug\programa-26_polimorfismo_por_herencia.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\programa-26_polimorfismo_por_herencia\programa-26_polimorfismo_por_herencia\obj\Debug\programa-26_polimorfismo_por_herencia.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\programa-26_polimorfismo_por_herencia\programa-26_polimorfismo_por_herencia\obj\Debug\programa-26_polimorfismo_por_herencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\programa-26_polimorfismo_por_herencia\programa-26_polimorfismo_por_herencia\obj\Debug\programa-26_polimorfismo_por_herencia.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\programa-26_polimorfismo_por_herencia\programa-26_polimorfismo_por_herencia\obj\Debug\programa-26_polimorfismo_por_herencia.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\programa-26_polimorfismo_por_herencia\programa-26_polimorfismo_por_herencia\obj\Debug\programa-26_polimorfismo_por_herencia.pdb
