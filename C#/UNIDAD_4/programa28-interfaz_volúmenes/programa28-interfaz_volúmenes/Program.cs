@@ -33,7 +33,7 @@ namespace programa28_interfaz_volúmenes
             public void desplegarVolumen(double resultado)
             {
                 Console.WriteLine("---------------ESFERA---------------");
-                Console.Write("El radio es {0}", radio);
+                Console.WriteLine("El radio es {0}", radio);
                 Console.WriteLine("El volumen de la esfera es: {0}", resultado);
 
 
@@ -66,7 +66,7 @@ namespace programa28_interfaz_volúmenes
             public void desplegarVolumen(double resultado)
             {
                 Console.WriteLine("---------------CUBO---------------");
-                Console.Write("El radio es {0}", lado);
+                Console.WriteLine("El radio es {0}", lado);
                 Console.WriteLine("El volumen de la esfera es: {0}", resultado);
 
                 Console.WriteLine("PRECIONE ENTER PARA CONTINUAR");
@@ -92,12 +92,12 @@ namespace programa28_interfaz_volúmenes
             //Metodos de la clase
             public double CalcularVolumen()
             {
-                return Math.PI * Math.Pow(radio,2) *Altura;
+                return (double)(Math.PI * Math.Pow(radio, 2) * Altura);
             }
             public void desplegarVolumen(double resultado)
             {
                 Console.WriteLine("---------------Cilindro---------------");
-                Console.Write("El radio es {0} y la altura es {0}", radio, Altura);
+                Console.WriteLine("El radio es {0} y la altura es {0}", radio, Altura);
                 Console.WriteLine("El volumen del Cilindro es: {0}", resultado);
 
                 Console.WriteLine("PRECIONE ENTER PARA CONTINUAR");
@@ -127,7 +127,7 @@ namespace programa28_interfaz_volúmenes
             public void desplegarVolumen(double resultado)
             {
                 Console.WriteLine("---------------CONO---------------");
-                Console.Write("El radio es {0} Y la Altura es {1}", radio, Altura);
+                Console.WriteLine("El radio es {0} Y la Altura es {1}", radio, Altura);
                 Console.WriteLine("El volumen de la esfera es: {0}", resultado);
 
                 Console.WriteLine("PRECIONE ENTER PARA CONTINUAR");
@@ -141,7 +141,8 @@ namespace programa28_interfaz_volúmenes
         {
             //Declarar variables
             float radio,Altura, lado;
-            
+            double resultado;
+
 
             //CAPTURAR LOS DATOS DE LA ESFERA
 
@@ -151,25 +152,63 @@ namespace programa28_interfaz_volúmenes
             //Constructor de la clase
             Esfera esfera = new Esfera(radio);
 
+            //Damos valor al resultado
+            resultado = esfera.CalcularVolumen();
             //Desplegar metodo
-            esfera.desplegarVolumen();
+            esfera.desplegarVolumen(resultado);
+            
+            
+
             //CAPTURAR LOS DATOS DE LA CUBO
             Console.Write("Lado :  ");
             lado = float.Parse(Console.ReadLine());
+
+            //Constructor del objeto
+            Cubo cub = new Cubo(radio);
+
+            //Damos valor al resultado
+            resultado = cub.CalcularVolumen();
+
+            //Desplegar metodo
+            cub.desplegarVolumen(resultado);
+
+
 
             //CAPTURAR LOS DATOS DE LA CILINDRO
             Console.Write("Radio:  ");
             radio = float.Parse(Console.ReadLine());
 
             Console.Write("Altura:  ");
-            Altura = float.Parse(Console.ReadLine()) ;
-            //CAPTURAR LOS DATOS DE LA CONO
+            Altura = float.Parse(Console.ReadLine());
 
+            //Constructor del cilindro
+            Cilindro cil = new Cilindro(radio, Altura);
+
+            //Damos valor al resultado
+            resultado = cil.CalcularVolumen();
+
+            //Desplegar metodo
+            cil.desplegarVolumen(resultado);
+
+
+            //CAPTURAR LOS DATOS DE LA CONO
             Console.Write("Radio:  ");
             radio = float.Parse(Console.ReadLine());
 
             Console.Write("Altura:  ");
             Altura = float.Parse(Console.ReadLine());
+
+            //Constructor de la clase Cono
+            Cono con = new Cono(radio, Altura);
+
+            //Damos valor el resultado
+            resultado = con.CalcularVolumen();
+            //Imprimimoe el metodo
+            con.desplegarVolumen(resultado);
+
+           Console.WriteLine("\n\nPRECIONE ENTER PARA CONTINUAR");
+           Console.ReadKey();
+            
         }
     }
 }

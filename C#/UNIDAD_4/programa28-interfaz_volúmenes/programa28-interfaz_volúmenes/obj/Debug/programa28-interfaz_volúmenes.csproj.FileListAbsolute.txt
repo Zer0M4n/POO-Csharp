@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\programa28-interfaz_volúmenes\programa28-interfaz_volúmenes\bin\Debug\programa28-interfaz_volúmenes.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\programa28-interfaz_volúmenes\programa28-interfaz_volúmenes\bin\Debug\programa28-interfaz_volúmenes.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\programa28-interfaz_volúmenes\programa28-interfaz_volúmenes\bin\Debug\programa28-interfaz_volúmenes.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\programa28-interfaz_volúmenes\programa28-interfaz_volúmenes\obj\Debug\programa28-interfaz_volúmenes.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\programa28-interfaz_volúmenes\programa28-interfaz_volúmenes\obj\Debug\programa28-interfaz_volúmenes.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\programa28-interfaz_volúmenes\programa28-interfaz_volúmenes\obj\Debug\programa28-interfaz_volúmenes.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\programa28-interfaz_volúmenes\programa28-interfaz_volúmenes\obj\Debug\programa28-interfaz_volúmenes.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\programa28-interfaz_volúmenes\programa28-interfaz_volúmenes\obj\Debug\programa28-interfaz_volúmenes.pdb
