@@ -1,0 +1,6 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\LIBRERIAS\VOLUMENES\VOLUMENES\bin\Debug\VOLUMENES.dll
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\LIBRERIAS\VOLUMENES\VOLUMENES\bin\Debug\VOLUMENES.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\LIBRERIAS\VOLUMENES\VOLUMENES\obj\Debug\VOLUMENES.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\LIBRERIAS\VOLUMENES\VOLUMENES\obj\Debug\VOLUMENES.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\LIBRERIAS\VOLUMENES\VOLUMENES\obj\Debug\VOLUMENES.dll
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\LIBRERIAS\VOLUMENES\VOLUMENES\obj\Debug\VOLUMENES.pdb
