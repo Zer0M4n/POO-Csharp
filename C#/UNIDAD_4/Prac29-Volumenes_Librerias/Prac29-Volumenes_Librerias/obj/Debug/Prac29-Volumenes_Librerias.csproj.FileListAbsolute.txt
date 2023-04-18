@@ -1,0 +1,11 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\Prac29-Volumenes_Librerias\Prac29-Volumenes_Librerias\bin\Debug\Prac29-Volumenes_Librerias.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\Prac29-Volumenes_Librerias\Prac29-Volumenes_Librerias\bin\Debug\Prac29-Volumenes_Librerias.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\Prac29-Volumenes_Librerias\Prac29-Volumenes_Librerias\bin\Debug\Prac29-Volumenes_Librerias.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\Prac29-Volumenes_Librerias\Prac29-Volumenes_Librerias\bin\Debug\VOLUMENES.dll
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\Prac29-Volumenes_Librerias\Prac29-Volumenes_Librerias\bin\Debug\VOLUMENES.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\Prac29-Volumenes_Librerias\Prac29-Volumenes_Librerias\obj\Debug\Prac29-Volumenes_Librerias.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\Prac29-Volumenes_Librerias\Prac29-Volumenes_Librerias\obj\Debug\Prac29-Volumenes_Librerias.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\Prac29-Volumenes_Librerias\Prac29-Volumenes_Librerias\obj\Debug\Prac29-Volumenes_Librerias.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\Prac29-Volumenes_Librerias\Prac29-Volumenes_Librerias\obj\Debug\Prac29-Volumenes_Librerias.csproj.CopyComplete
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\Prac29-Volumenes_Librerias\Prac29-Volumenes_Librerias\obj\Debug\Prac29-Volumenes_Librerias.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\Prac29-Volumenes_Librerias\Prac29-Volumenes_Librerias\obj\Debug\Prac29-Volumenes_Librerias.pdb

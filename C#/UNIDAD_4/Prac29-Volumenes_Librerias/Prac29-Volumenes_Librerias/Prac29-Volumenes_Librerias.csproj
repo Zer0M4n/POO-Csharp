@@ -41,6 +41,9 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="VOLUMENES">
+      <HintPath>..\..\LIBRERIAS\VOLUMENES\VOLUMENES\bin\Debug\VOLUMENES.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
