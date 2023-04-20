@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_4\programa30-clase_abstracta_perímetros\programa30-clase_abstracta_perímetros\bin\Debug\programa30-clase_abstracta_perímetros.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_4\programa30-clase_abstracta_perímetros\programa30-clase_abstracta_perímetros\bin\Debug\programa30-clase_abstracta_perímetros.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_4\programa30-clase_abstracta_perímetros\programa30-clase_abstracta_perímetros\bin\Debug\programa30-clase_abstracta_perímetros.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_4\programa30-clase_abstracta_perímetros\programa30-clase_abstracta_perímetros\obj\Debug\programa30-clase_abstracta_perímetros.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_4\programa30-clase_abstracta_perímetros\programa30-clase_abstracta_perímetros\obj\Debug\programa30-clase_abstracta_perímetros.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_4\programa30-clase_abstracta_perímetros\programa30-clase_abstracta_perímetros\obj\Debug\programa30-clase_abstracta_perímetros.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_4\programa30-clase_abstracta_perímetros\programa30-clase_abstracta_perímetros\obj\Debug\programa30-clase_abstracta_perímetros.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_4\programa30-clase_abstracta_perímetros\programa30-clase_abstracta_perímetros\obj\Debug\programa30-clase_abstracta_perímetros.pdb
