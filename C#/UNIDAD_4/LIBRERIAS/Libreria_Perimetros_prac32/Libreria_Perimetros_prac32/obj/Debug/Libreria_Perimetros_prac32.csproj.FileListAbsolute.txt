@@ -1,0 +1,6 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\LIBRERIAS\Libreria_Perimetros_prac32\Libreria_Perimetros_prac32\bin\Debug\Libreria_Perimetros_prac32.dll
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\LIBRERIAS\Libreria_Perimetros_prac32\Libreria_Perimetros_prac32\bin\Debug\Libreria_Perimetros_prac32.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\LIBRERIAS\Libreria_Perimetros_prac32\Libreria_Perimetros_prac32\obj\Debug\Libreria_Perimetros_prac32.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\LIBRERIAS\Libreria_Perimetros_prac32\Libreria_Perimetros_prac32\obj\Debug\Libreria_Perimetros_prac32.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\LIBRERIAS\Libreria_Perimetros_prac32\Libreria_Perimetros_prac32\obj\Debug\Libreria_Perimetros_prac32.dll
+C:\Users\cesar\OneDrive\Documents\GitHub\OOP--POO-\C#\UNIDAD_4\LIBRERIAS\Libreria_Perimetros_prac32\Libreria_Perimetros_prac32\obj\Debug\Libreria_Perimetros_prac32.pdb

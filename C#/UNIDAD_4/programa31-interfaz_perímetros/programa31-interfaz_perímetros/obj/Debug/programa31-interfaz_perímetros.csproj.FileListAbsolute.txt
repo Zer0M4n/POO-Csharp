@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_4\programa31-interfaz_perímetros\programa31-interfaz_perímetros\bin\Debug\programa31-interfaz_perímetros.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_4\programa31-interfaz_perímetros\programa31-interfaz_perímetros\bin\Debug\programa31-interfaz_perímetros.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_4\programa31-interfaz_perímetros\programa31-interfaz_perímetros\bin\Debug\programa31-interfaz_perímetros.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_4\programa31-interfaz_perímetros\programa31-interfaz_perímetros\obj\Debug\programa31-interfaz_perímetros.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_4\programa31-interfaz_perímetros\programa31-interfaz_perímetros\obj\Debug\programa31-interfaz_perímetros.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_4\programa31-interfaz_perímetros\programa31-interfaz_perímetros\obj\Debug\programa31-interfaz_perímetros.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_4\programa31-interfaz_perímetros\programa31-interfaz_perímetros\obj\Debug\programa31-interfaz_perímetros.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_4\programa31-interfaz_perímetros\programa31-interfaz_perímetros\obj\Debug\programa31-interfaz_perímetros.pdb
