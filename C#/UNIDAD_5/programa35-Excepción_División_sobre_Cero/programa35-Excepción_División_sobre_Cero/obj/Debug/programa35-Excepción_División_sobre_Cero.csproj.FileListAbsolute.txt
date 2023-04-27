@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa35-Excepción_División_sobre_Cero\programa35-Excepción_División_sobre_Cero\bin\Debug\programa35-Excepción_División_sobre_Cero.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa35-Excepción_División_sobre_Cero\programa35-Excepción_División_sobre_Cero\bin\Debug\programa35-Excepción_División_sobre_Cero.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa35-Excepción_División_sobre_Cero\programa35-Excepción_División_sobre_Cero\bin\Debug\programa35-Excepción_División_sobre_Cero.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa35-Excepción_División_sobre_Cero\programa35-Excepción_División_sobre_Cero\obj\Debug\programa35-Excepción_División_sobre_Cero.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa35-Excepción_División_sobre_Cero\programa35-Excepción_División_sobre_Cero\obj\Debug\programa35-Excepción_División_sobre_Cero.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa35-Excepción_División_sobre_Cero\programa35-Excepción_División_sobre_Cero\obj\Debug\programa35-Excepción_División_sobre_Cero.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa35-Excepción_División_sobre_Cero\programa35-Excepción_División_sobre_Cero\obj\Debug\programa35-Excepción_División_sobre_Cero.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa35-Excepción_División_sobre_Cero\programa35-Excepción_División_sobre_Cero\obj\Debug\programa35-Excepción_División_sobre_Cero.pdb
