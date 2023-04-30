@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa36-ArgumentoFueraRango\programa36-ArgumentoFueraRango\bin\Debug\programa36-ArgumentoFueraRango.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa36-ArgumentoFueraRango\programa36-ArgumentoFueraRango\bin\Debug\programa36-ArgumentoFueraRango.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa36-ArgumentoFueraRango\programa36-ArgumentoFueraRango\bin\Debug\programa36-ArgumentoFueraRango.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa36-ArgumentoFueraRango\programa36-ArgumentoFueraRango\obj\Debug\programa36-ArgumentoFueraRango.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa36-ArgumentoFueraRango\programa36-ArgumentoFueraRango\obj\Debug\programa36-ArgumentoFueraRango.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa36-ArgumentoFueraRango\programa36-ArgumentoFueraRango\obj\Debug\programa36-ArgumentoFueraRango.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa36-ArgumentoFueraRango\programa36-ArgumentoFueraRango\obj\Debug\programa36-ArgumentoFueraRango.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa36-ArgumentoFueraRango\programa36-ArgumentoFueraRango\obj\Debug\programa36-ArgumentoFueraRango.pdb
