@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa37-practica_NegativosException\programa37-practica_NegativosException\bin\Debug\programa37-practica_NegativosException.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa37-practica_NegativosException\programa37-practica_NegativosException\bin\Debug\programa37-practica_NegativosException.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa37-practica_NegativosException\programa37-practica_NegativosException\bin\Debug\programa37-practica_NegativosException.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa37-practica_NegativosException\programa37-practica_NegativosException\obj\Debug\programa37-practica_NegativosException.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa37-practica_NegativosException\programa37-practica_NegativosException\obj\Debug\programa37-practica_NegativosException.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa37-practica_NegativosException\programa37-practica_NegativosException\obj\Debug\programa37-practica_NegativosException.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa37-practica_NegativosException\programa37-practica_NegativosException\obj\Debug\programa37-practica_NegativosException.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_5\programa37-practica_NegativosException\programa37-practica_NegativosException\obj\Debug\programa37-practica_NegativosException.pdb
