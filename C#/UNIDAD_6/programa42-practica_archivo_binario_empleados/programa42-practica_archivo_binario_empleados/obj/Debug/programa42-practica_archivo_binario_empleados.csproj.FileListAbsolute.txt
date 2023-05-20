@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_6\programa42-practica_archivo_binario_empleados\programa42-practica_archivo_binario_empleados\bin\Debug\programa42-practica_archivo_binario_empleados.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_6\programa42-practica_archivo_binario_empleados\programa42-practica_archivo_binario_empleados\bin\Debug\programa42-practica_archivo_binario_empleados.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_6\programa42-practica_archivo_binario_empleados\programa42-practica_archivo_binario_empleados\bin\Debug\programa42-practica_archivo_binario_empleados.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_6\programa42-practica_archivo_binario_empleados\programa42-practica_archivo_binario_empleados\obj\Debug\programa42-practica_archivo_binario_empleados.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_6\programa42-practica_archivo_binario_empleados\programa42-practica_archivo_binario_empleados\obj\Debug\programa42-practica_archivo_binario_empleados.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_6\programa42-practica_archivo_binario_empleados\programa42-practica_archivo_binario_empleados\obj\Debug\programa42-practica_archivo_binario_empleados.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_6\programa42-practica_archivo_binario_empleados\programa42-practica_archivo_binario_empleados\obj\Debug\programa42-practica_archivo_binario_empleados.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_6\programa42-practica_archivo_binario_empleados\programa42-practica_archivo_binario_empleados\obj\Debug\programa42-practica_archivo_binario_empleados.pdb

@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_6\programa41-archivo_texto_flujos_caracteres\programa41-archivo_texto_flujos_caracteres\bin\Debug\programa41-archivo_texto_flujos_caracteres.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_6\programa41-archivo_texto_flujos_caracteres\programa41-archivo_texto_flujos_caracteres\bin\Debug\programa41-archivo_texto_flujos_caracteres.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_6\programa41-archivo_texto_flujos_caracteres\programa41-archivo_texto_flujos_caracteres\bin\Debug\programa41-archivo_texto_flujos_caracteres.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_6\programa41-archivo_texto_flujos_caracteres\programa41-archivo_texto_flujos_caracteres\obj\Debug\programa41-archivo_texto_flujos_caracteres.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_6\programa41-archivo_texto_flujos_caracteres\programa41-archivo_texto_flujos_caracteres\obj\Debug\programa41-archivo_texto_flujos_caracteres.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_6\programa41-archivo_texto_flujos_caracteres\programa41-archivo_texto_flujos_caracteres\obj\Debug\programa41-archivo_texto_flujos_caracteres.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_6\programa41-archivo_texto_flujos_caracteres\programa41-archivo_texto_flujos_caracteres\obj\Debug\programa41-archivo_texto_flujos_caracteres.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\POO\C#\UNIDAD_6\programa41-archivo_texto_flujos_caracteres\programa41-archivo_texto_flujos_caracteres\obj\Debug\programa41-archivo_texto_flujos_caracteres.pdb

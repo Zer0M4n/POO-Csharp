@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa40-practica_archivo_texto_flujos_bytes", "programa40-practica_archivo_texto_flujos_bytes\programa40-practica_archivo_texto_flujos_bytes.csproj", "{306B2CAB-DD5E-4035-B151-6066721470BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306B2CAB-DD5E-4035-B151-6066721470BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306B2CAB-DD5E-4035-B151-6066721470BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306B2CAB-DD5E-4035-B151-6066721470BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306B2CAB-DD5E-4035-B151-6066721470BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {385AD35A-9D8B-4C8E-B9B2-A288684274E2}
+	EndGlobalSection
+EndGlobal
