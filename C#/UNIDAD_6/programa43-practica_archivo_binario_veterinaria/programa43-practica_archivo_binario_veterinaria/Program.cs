@@ -138,24 +138,61 @@ namespace programa43_practica_archivo_binario_veterinaria
         }
         static void Main(string[] args)
         {
-            string arch;
+            string Arch = null;
             char OPC = 'T';
-            bool CICLO = true;
+            //llamar clase
+            VETERINARIO obj = new VETERINARIO();
+          
             do
             {
-                switch(OPC) 
+                Console.Clear();
+                try
                 {
-                    case 'a':
-                        break;
-                    case 'b':
-                        break;
-                    case 'c':
-                        break;
-                    default:
-                        Console.WriteLine();
-                        break;
+                    Console.WriteLine();
+                    Console.WriteLine();
+                    Console.Write("Que desea hacer? ");
+                    OPC = char.Parse(Console.ReadLine());
+                    switch (OPC)
+                    {
+                        case 'a':
+                            Console.Write("Nombre del archivo: ");
+                            Arch = Console.ReadLine();
+                            char resp = 's';
+                            if (File.Exists(Arch))
+
+                            {
+                                Console.Write("\nEl Archivo Existe!!, Deseas Sobreescribirlo(s / n) ? ");
+                                resp = Char.Parse(Console.ReadLine());
+                            }
+                            obj.CrearArchivo(Arch);
+
+                            break;
+                        case 'b':
+                            Console.Write("Nombre del archivo: ");
+                            Arch = Console.ReadLine();
+                            obj.MostrarArchivo(Arch);
+                            break;
+                        case 'c':
+                            Environment.Exit (0);
+                            break;
+                        default:
+                            Console.WriteLine("OPCION NO DISPONIBRE");
+                            break;
+                    }
+
                 }
-            } while (CICLO == true);
+                
+                catch(FormatException ex)
+                { 
+                    Console.WriteLine("ERROR: {0}",ex.Message);
+                    Console.WriteLine("RUTA ERROR: {0}", ex.StackTrace);
+                }
+                finally
+                {
+                    Console.WriteLine("\n\nCreado por Cesar gonzalez");
+                    Console.ReadKey();
+                }
+            } while (OPC != 0);
         }
     }
 }
